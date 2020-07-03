@@ -1,2 +1,2 @@
 # hello-world
-# This is the first revise.
+# This is the first revision.
